@@ -2259,5 +2259,18 @@
     "bio": "Data Scientist & AI Engineer @Blend360 | 13x AWS Certified",
     "linkedin": "maximo-lorenzo-y-losada-12164623b",
     "avatar": "/avatars/maxilylm.jpg"
+  },
+  {
+    "name": "Rohan Saksena",
+    "github": "rosaks",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "Frederick",
+    "country": "United States",
+    "date": "2026-09-29",
+    "bio": "Customer Experience | 13x AWS Certified",
+    "linkedin": "rohansaksena",
+    "avatar": "/avatars/Rohan Saksena.jpg"
   }
 ]
